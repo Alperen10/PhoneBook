@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<AppData xmlns="http://tempuri.org/AppData.xsd">
+  <TelefonDefteri>
+    <ID>-1</ID>
+  </TelefonDefteri>
+  <TelefonDefteri>
+    <Telefon_x0020_Numarası />
+    <Ad-Soyad />
+    <Email />
+    <Adres />
+    <ID>-2</ID>
+  </TelefonDefteri>
+</AppData>

@@ -1,0 +1,10 @@
+C:\Users\Alperen\source\repos\CSharpCourse\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\Alperen\source\repos\CSharpCourse\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\Alperen\source\repos\CSharpCourse\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Alperen\source\repos\CSharpCourse\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Alperen\source\repos\CSharpCourse\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\source\repos\CSharpCourse\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Alperen\source\repos\CSharpCourse\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Alperen\source\repos\CSharpCourse\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Alperen\source\repos\CSharpCourse\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Alperen\source\repos\CSharpCourse\PhoneBook\obj\Debug\PhoneBook.pdb
